@@ -10,6 +10,11 @@ This is an example template to break down several apps into smaller parts and th
 
 ## Setup Instructions
 
+### Clone the Project
+   ```bash
+   git clone https://github.com/pavan2540/mf-demo-dashboard.git
+   ```
+
 ### Home App
 1. Navigate to the home app directory:
    ```bash
